@@ -1,0 +1,10 @@
+• Create a scatterplot matrix of “Concrete Slump Test Data” and select an initial set
+of predictor variables
+• Build a few potential regression models using “Concrete Slump Test Data”
+• Perform regression diagnostics using both typical approach and enhanced
+approach
+• Identify unusual observations and take corrective measures
+• Select the best regression model
+• Fine tune the selection of predictor variables
+• Interpret the prediction results
+
